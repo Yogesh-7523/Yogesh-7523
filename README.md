@@ -1,18 +1,18 @@
-![logo](https://camo.githubusercontent.com/405ec87f325f46fb3b98dff86e47a3122360532127d9ea40aa9d78ce107b9d6a/68747470733a2f2f692e696d6775722e636f6d2f4c65756836776d2e676966)
-<h1 align="center">Hi 👋, I'm Yogesh Kumar Singh</h1>
-<h3 align="center">Enthusiastic Learner </h3>
+![MasterHead](https://camo.githubusercontent.com/c0d28d992d6fe2f272be82e606fe0b6c557b5d60f4e1188271f643a9cdaf352f/68747470733a2f2f692e696d6775722e636f6d2f4c65756836776d2e676966)
+<h1 align="center">Namaste🙏🏼, I'm Yogesh Kumar Singh</h1>
+<h3 align="center">Code,Cook & Coffee </h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/12e5f2b182da4b52850b29bb09e8ba3e92b0ac2c0bd121de7dfcbb291fbbd525/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh-7523&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh-7523" /> </p>
 
 - 🌱 I’m currently learning **Programming,Node js, Mongodb,docker,express,react js, Cloud,Networking,Pentesting**
 
-- 💬 Ask me about **Cybersec,DSA,CTF's,Hacking,C,C++,MERN development**
+- 💬 Ask me about **Cybersec,DSA,CTF's,Hacking,C,C++,MERN development,AWS**
 
 - 📫 How to reach me **yogesh.2024cse1151@kiet.edu**
 
-- ⚡ Fun fact **Love Traveling & making friends, foody too and sports :)**
+- ⚡ Fun fact **Feeling Good? Do this:  rm -rf /**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
