@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://s3.ezgif.com/tmp/ezgif-31e349fc050c5b.gif](https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif)" alt="MasterHead" width="100%" />
+  <img src="https://raw.githubusercontent.com/Yogesh-7523/profile-assets/refs/heads/main/image.png" alt="MasterHead" width="100%" />
 </p>
 
 <h1 align="center">Namaste🙏🏼, I'm Yogesh Kumar Singh</h1>
